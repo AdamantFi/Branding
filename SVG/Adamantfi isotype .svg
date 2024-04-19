@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1076.65 585.34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_6-2);
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_6);
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_6-3);
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre_6-4);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_6" data-name="Degradado sin nombre 6" x1="1013.21" y1="420.15" x2="656.3" y2="-128.16" gradientTransform="translate(1491.2 -580.84) rotate(90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b39a69"/>
+      <stop offset="1" stop-color="#ddc499"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_6-2" data-name="Degradado sin nombre 6" x1="515.1" y1="744.39" x2="158.19" y2="196.09" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_6"/>
+    <linearGradient id="Degradado_sin_nombre_6-3" data-name="Degradado sin nombre 6" x1="1050.97" y1="395.57" x2="694.05" y2="-152.73" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_6"/>
+    <linearGradient id="Degradado_sin_nombre_6-4" data-name="Degradado sin nombre 6" x1="981.24" y1="440.96" x2="624.33" y2="-107.35" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_6"/>
+  </defs>
+  <rect class="cls-2" x="905.86" y="414.55" width="260.32" height="81.26" transform="translate(580.84 1491.2) rotate(-90)"/>
+  <g>
+    <polygon class="cls-1" points="823.14 585.34 724.4 585.34 667.27 504.08 484.26 243.77 484.21 243.77 427.14 162.51 427.08 162.51 411.57 140.41 362.22 210.61 155.87 504.08 568.53 504.08 625.66 585.34 0 585.34 312.83 140.41 362.22 70.2 411.57 0 468.7 81.26 510.31 140.41 525.82 162.51 525.88 162.51 582.95 243.77 583 243.77 823.14 585.34"/>
+    <polygon class="cls-3" points="1076.65 0 1076.65 81.26 567.43 81.26 510.3 0 1076.65 0"/>
+    <polygon class="cls-4" points="975.43 162.51 975.43 243.77 681.68 243.77 624.55 162.51 975.43 162.51"/>
+  </g>
+</svg>
